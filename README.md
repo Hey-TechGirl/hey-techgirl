@@ -1,2 +1,2 @@
-# hey-techgirl
+# hey-techgirl.github.io
 hey-techgirl
